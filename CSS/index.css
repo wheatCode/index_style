@@ -1,0 +1,15 @@
+.btn{
+    border-width: 2px;
+}
+.bg-cover{
+    background-size: cover;
+    background-position:center center;
+}
+.carousel-text-bg{
+    background:rgba(0, 0, 0, 0.4);
+}
+@media (min-width: 768px) {
+    .text-md-dark{
+        color:black;
+    }
+}
